@@ -1,7 +1,6 @@
 var resources = {
-  basePath: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/',
   misc: {
-    background: 'images/background.png'
+    background: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/background.png'
   },
   icons: {
     options: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,16A2,2 0 0,1 14,18A2,2 0 0,1 12,20A2,2 0 0,1 10,18A2,2 0 0,1 12,16M12,10A2,2 0 0,1 14,12A2,2 0 0,1 12,14A2,2 0 0,1 10,12A2,2 0 0,1 12,10M12,4A2,2 0 0,1 14,6A2,2 0 0,1 12,8A2,2 0 0,1 10,6A2,2 0 0,1 12,4Z" /></svg>',
@@ -24,238 +23,238 @@ var resources = {
     reload: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 12C2 16.97 6.03 21 11 21C13.39 21 15.68 20.06 17.4 18.4L15.9 16.9C14.63 18.25 12.86 19 11 19C4.76 19 1.64 11.46 6.05 7.05C10.46 2.64 18 5.77 18 12H15L19 16H19.1L23 12H20C20 7.03 15.97 3 11 3C6.03 3 2 7.03 2 12Z" /></svg>'
   },
   favicons: {
-    cntraveler: 'favicons/cntraveler.png',
-    galeriacolonna: 'favicons/galleriacolonna.png',
-    manvsglobe: 'favicons/manvsglobe.png',
-    rometickets: 'favicons/rometickets.png',
-    turismoroma: 'favicons/turismoroma.png',
-    michelin: 'favicons/michelin.png',
-    kayak: 'favicons/kayak.jfif',
-    tripadvisor: 'favicons/tripadvisor.png',
-    booking: 'favicons/booking.png',
-    outsideonline: 'favicons/outsideonline.png',
-    bbc: 'favicons/bbc.png',
-    nationalgeographic: 'favicons/nationalgeographic.png',
-    buzzfeed: 'favicons/buzzfeed.png',
-    economist: 'favicons/economist.png',
-    theverge: 'favicons/theverge.png',
-    chicagomag: 'favicons/chicagomag.png',
-    noemamag: 'favicons/noemamag.png',
-    wired: 'favicons/wired.png',
-    technologyreview: 'favicons/technologyreview.png',
-    thewalrus: 'favicons/thewalrus.png',
-    nytimes: 'favicons/nytimes.png',
-    harpers: 'favicons/harpers.png',
-    thenewyorker: 'favicons/thenewyorker.png',
-    theatlantic: 'favicons/theatlantic.png',
-    scientificamerican: 'favicons/scientificamerican.png',
-    theguardian: 'favicons/theguardian.png',
-    aeon: 'favicons/aeon.png',
-    youtube: 'favicons/youtube.png',
-    x: 'favicons/x.png',
-    reddit: 'favicons/reddit.png',
-    instagram: 'favicons/instagram.png',
-    pinterest: 'favicons/pinterest.png',
-    linkedin: 'favicons/linkedin.png',
-    spotify: 'favicons/spotify.png',
-    netflix: 'favicons/netflix.png',
-    dribble: 'favicons/dribble.png',
-    twitch: 'favicons/twitch.png',
-    duolingo: 'favicons/duolingo.png',
-    canva: 'favicons/canva.png',
-    addapinch: 'favicons/addapinch.png',
-    sallysbakingaddiction: 'favicons/sallysbakingaddiction.png',
-    hersheyland: 'favicons/hersheyland.png',
-    allrecipes: 'favicons/allrecipes.png',
-    bbcgoodfood: 'favicons/bbcgoodfood.png',
-    foodnetwork: 'favicons/foodnetwork.png',
-    healthyrecipesblog: 'favicons/healthyrecipesblog.png',
-    joyfoodsunshine: 'favicons/joyfoodsunshine.png',
-    loveandlemons: 'favicons/loveandlemons.png',
-    recipetineats: 'favicons/recipetineats.png',
-    parischezsharon: 'favicons/parischezsharon.png',
-    jamieoliver: 'favicons/jamieoliver.png'
+    cntraveler: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/cntraveler.png',
+    galeriacolonna: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/galleriacolonna.png',
+    manvsglobe: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/manvsglobe.png',
+    rometickets: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/rometickets.png',
+    turismoroma: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/turismoroma.png',
+    michelin: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/michelin.png',
+    kayak: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/kayak.jfif',
+    tripadvisor: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/tripadvisor.png',
+    booking: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/booking.png',
+    outsideonline: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/outsideonline.png',
+    bbc: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/bbc.png',
+    nationalgeographic: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/nationalgeographic.png',
+    buzzfeed: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/buzzfeed.png',
+    economist: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/economist.png',
+    theverge: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/theverge.png',
+    chicagomag: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/chicagomag.png',
+    noemamag: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/noemamag.png',
+    wired: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/wired.png',
+    technologyreview: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/technologyreview.png',
+    thewalrus: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/thewalrus.png',
+    nytimes: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/nytimes.png',
+    harpers: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/harpers.png',
+    thenewyorker: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/thenewyorker.png',
+    theatlantic: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/theatlantic.png',
+    scientificamerican: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/scientificamerican.png',
+    theguardian: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/theguardian.png',
+    aeon: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/aeon.png',
+    youtube: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/youtube.png',
+    x: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/x.png',
+    reddit: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/reddit.png',
+    instagram: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/instagram.png',
+    pinterest: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/pinterest.png',
+    linkedin: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/linkedin.png',
+    spotify: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/spotify.png',
+    netflix: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/netflix.png',
+    dribble: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/dribble.png',
+    twitch: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/twitch.png',
+    duolingo: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/duolingo.png',
+    canva: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/canva.png',
+    addapinch: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/addapinch.png',
+    sallysbakingaddiction: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/sallysbakingaddiction.png',
+    hersheyland: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/hersheyland.png',
+    allrecipes: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/allrecipes.png',
+    bbcgoodfood: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/bbcgoodfood.png',
+    foodnetwork: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/foodnetwork.png',
+    healthyrecipesblog: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/healthyrecipesblog.png',
+    joyfoodsunshine: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/joyfoodsunshine.png',
+    loveandlemons: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/loveandlemons.png',
+    recipetineats: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/recipetineats.png',
+    parischezsharon: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/parischezsharon.png',
+    jamieoliver: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/jamieoliver.png'
   },
   snapshots: {
     cntraveler: {
       title: '26 Best Things to Do in Rome, According to Our Local Expert | Condé Nast Traveler',
       url: 'https://www.cntraveler.com/gallery/best-things-to-do-in-rome',
-      data: 'images/cntraveler.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/cntraveler.png'
     },
     galeriacolonna: {
       title: 'Home - Colonna Palace',
       url: 'https://www.galleriacolonna.it/en/',
-      data: 'images/galleriacolonna.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/galleriacolonna.png'
     },
     manvsglobe: {
       title: "Trastevere: A Guide to Rome's Bohemian Neighbourhood - Man Vs Globe",
       url: 'https://www.manvsglobe.com/trastevere-guide-rome-italy-cool-hipster-bohemian-neighbourhood/',
-      data: 'images/manvsglobe.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/manvsglobe.png'
     },
     rometickets: {
       title: 'Buy your Colosseum, Roman Forum and Palatine hill tickets',
       url: 'https://colosseum.rome-tickets.org/colosseum-tickets/',
-      data: 'images/rometickets.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/rometickets.png'
     },
     turismoroma: {
       title: 'The Trevi Fountain | Turismo Roma',
       url: 'https://www.turismoroma.it/en/places/trevi-fountain',
-      data: 'images/turismoroma.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/turismoroma.png'
     },
     michelin: {
       title: 'Rome MICHELIN Restaurants - The MICHELIN Guide',
       url: 'https://guide.michelin.com/en/it/lazio/roma/restaurants',
-      data: 'images/michelin.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/michelin.png'
     },
     kayak: {
       title: 'JFK to ROM, 1/1 \– 1/7',
       url: 'https://www.kayak.com/flights/JFK-ROM/2026-01-01/2026-01-07',
-      data: 'images/kayak.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/kayak.png'
     },
     tripadvisor: {
       title: 'THE 15 BEST Things to Do in Rome (2025) - Must-See Attractions',
       url: 'https://www.tripadvisor.com/Attractions-g187791-Activities-Rome_Lazio.html',
-      data: 'images/tripadvisor.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/tripadvisor.png'
     },
     booking: {
       title: 'The St. Regis Rome, Rome (updated prices 2025)',
       url: 'https://www.booking.com/hotel/it/stregisgrandroma.html',
-      data: 'images/booking.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/booking.png'
     },
     outsideonline: {
       title: 'Inside the Mad, Mad World of TripAdvisor',
       url: 'https://www.outsideonline.com/adventure-travel/advice/inside-mad-mad-world-tripadvisor',
-      data: 'images/outsideonline.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/outsideonline.png'
     },
     bbc: {
       title: 'Will we ever… understand why music makes us feel good?',
       url: 'https://www.bbc.com/future/article/20130418-why-does-music-make-us-feel-good',
-      data: 'images/bbc.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/bbc.png'
     },
     nationalgeographic: {
       title: 'Carnivore’s Dilemma - National Geographic',
       url: 'https://www.nationalgeographic.com/foodfeatures/meat/',
-      data: 'images/nationalgeographic.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/nationalgeographic.png'
     },
     buzzfeed: {
       title: 'The Notorious MSG\'s Unlikely Formula For Success',
       url: 'https://www.buzzfeed.com/johnmahoney/the-notorious-msgs-unlikely-formula-for-success',
-      data: 'images/buzzfeed.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/buzzfeed.png'
     },
     economist: {
       title: 'Death of the calorie',
       url: 'https://www.economist.com/1843/2019/02/28/death-of-the-calorie',
-      data: 'images/economist.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/economist.png'
     },
     theverge: {
       title: 'The invisible seafaring industry that keeps the internet afloat',
       url: 'https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships',
-      data: 'images/theverge.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/theverge.png'
     },
     chicagomag: {
       title: 'A Knife Forged in Fire – Chicago Magazine',
       url: 'https://www.chicagomag.com/chicago-magazine/january-2024/a-knife-forged-in-fire/',
-      data: 'images/chicagomag.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/chicagomag.png'
     },
     noemamag: {
       title: 'The Secret, Magical Life Of Lithium - NOEMA',
       url: 'https://www.noemamag.com/the-secret-magical-life-of-lithium/',
-      data: 'images/noemamag.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/noemamag.png'
     },
     wired: {
       title: 'Scientists Have an Audacious Plan to Map the Ancient World Before It Disappears | WIRED',
       url: 'https://www.wired.com/story/scientists-have-an-audacious-plan-to-map-the-ancient-world-before-it-disappears/',
-      data: 'images/wired.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/wired.png'
     },
     technologyreview: {
       title: 'The decade-long quest to hack the body’s immune system with electricity | MIT Technology Review',
       url: 'https://www.technologyreview.com/2024/05/30/1092937/the-messy-quest-to-replace-drugs-with-electricity/',
-      data: 'images/technologyreview.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/technologyreview.png'
     },
     thewalrus: {
       title: 'The Benefits of Solitude | The Walrus',
       url: 'https://thewalrus.ca/the-benefits-of-solitude/',
-      data: 'images/thewalrus.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/thewalrus.png'
     },
     nytimes: {
       title: 'The Brilliant Inventor Who Made Two of History’s Biggest Mistakes - The New York Times',
       url: 'https://www.nytimes.com/2023/03/15/magazine/cfcs-inventor.html',
-      data: 'images/nytimes.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/nytimes.png'
     },
     harpers: {
       title: 'In Search of Lost Time, by Tom Vanderbilt',
       url: 'https://harpers.org/archive/2023/04/the-science-of-the-perfect-second/',
-      data: 'images/harpers.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/harpers.png'
     },
     thenewyorker: {
       title: 'Crooks’ Mistaken Bet on Encrypted Phones | The New Yorker',
       url: 'https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones',
-      data: 'images/thenewyorker.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/thenewyorker.png'
     },
     theatlantic: {
       title: 'Wall Street’s Short Kings - The Atlantic',
       url: 'https://www.theatlantic.com/magazine/archive/2023/03/wall-street-muddy-waters-activist-short-sellers-tesla-gamestop/672774/',
-      data: 'images/theatlantic.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/theatlantic.png'
     },
     scientificamerican: {
       title: 'Synthetic Morphology Lets Scientists Create New Life-Forms | Scientific American',
       url: 'https://www.scientificamerican.com/article/synthetic-morphology-lets-scientists-create-new-life-forms/',
-      data: 'images/scientificamerican.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/scientificamerican.png'
     },
     theguardian: {
       title: '‘We are just getting started’: the plastic-eating bacteria that could change the world | Plastics | The Guardian',
       url: 'https://www.theguardian.com/environment/2023/sep/28/plastic-eating-bacteria-enzyme-recycling-waste',
-      data: 'images/theguardian.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/theguardian.png'
     },
     aeon: {
       title: 'What was it like to grow up in the last Ice Age? | Aeon Essays',
       url: 'https://aeon.co/essays/what-was-it-like-to-grow-up-in-the-last-ice-age',
-      data: 'images/aeon.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/aeon.png'
     },
     addapinch: {
       title: 'The Best Chocolate Cake Recipe {Ever} - Add a Pinch',
       url: 'https://addapinch.com/the-best-chocolate-cake-recipe-ever/',
-      data: 'images/addapinch.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/addapinch.png'
     },
     sallysbakingaddiction:  {
       title: 'Chocolate Layer Cake (Popular Recipe!) - Sally\'s Baking Addiction',
       url: 'https://sallysbakingaddiction.com/triple-chocolate-layer-cake/',
-      data: 'images/sallysbakingaddiction.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/sallysbakingaddiction.png'
     },
     allrecipes:  {
       title: 'One Bowl Chocolate Cake Recipe',
       url: 'https://www.allrecipes.com/recipe/17981/one-bowl-chocolate-cake-iii/',
-      data: 'images/allrecipes.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/allrecipes.png'
     },
     healthyrecipesblog:  {
       title: 'Homemade Chocolate Recipe - Healthy Recipes Blog',
       url: 'https://healthyrecipesblogs.com/homemade-chocolate/',
-      data: 'images/healthyrecipesblog.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/healthyrecipesblog.png'
     },
     joyfoodsunshine:  {
       title: 'The Best Chocolate Chip Cookie Recipe Ever - JoyFoodSunshine',
       url: 'https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/',
-      data: 'images/joyfoodsunshine.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/joyfoodsunshine.png'
     },
     loveandlemons:  {
       title: 'Best Homemade Brownies Recipe - Love and Lemons',
       url: 'https://www.loveandlemons.com/brownies-recipe/',
-      data: 'images/loveandlemons.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/loveandlemons.png'
     },
     recipetineats:  {
       title: 'Chocolate Mousse - RecipeTin Eats',
       url: 'https://www.recipetineats.com/chocolate-mousse/',
-      data: 'images/recipetineats.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/recipetineats.png'
     },
     parischezsharon:  {
       title: 'The Best Chocolate Soufflé Ever - Paris chez Sharon',
       url: 'https://parischezsharon.com/2022/10/the-best-chocolate-souffle-ever.html',
-      data: 'images/parischezsharon.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/parischezsharon.png'
     },
     jamieoliver:  {
       title: 'Simple chocolate tart | Jamie Oliver chocolate recipes',
       url: 'https://www.jamieoliver.com/recipes/chocolate/simple-chocolate-tart/',
-      data: 'images/jamieoliver.png'
+      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/jamieoliver.png'
     }
   }
 };
