@@ -82,186 +82,190 @@ var resources = {
     parischezsharon: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/parischezsharon.png',
     jamieoliver: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/jamieoliver.png'
   },
-  snapshots: {
+  links: {
     cntraveler: {
       title: '26 Best Things to Do in Rome, According to Our Local Expert | Condé Nast Traveler',
       url: 'https://www.cntraveler.com/gallery/best-things-to-do-in-rome',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/cntraveler.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/cntraveler.png'
     },
     galeriacolonna: {
       title: 'Home - Colonna Palace',
       url: 'https://www.galleriacolonna.it/en/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/galleriacolonna.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/galleriacolonna.png'
     },
     manvsglobe: {
       title: "Trastevere: A Guide to Rome's Bohemian Neighbourhood - Man Vs Globe",
       url: 'https://www.manvsglobe.com/trastevere-guide-rome-italy-cool-hipster-bohemian-neighbourhood/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/manvsglobe.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/manvsglobe.png'
     },
     rometickets: {
       title: 'Buy your Colosseum, Roman Forum and Palatine hill tickets',
       url: 'https://colosseum.rome-tickets.org/colosseum-tickets/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/rometickets.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/rometickets.png'
     },
     turismoroma: {
       title: 'The Trevi Fountain | Turismo Roma',
       url: 'https://www.turismoroma.it/en/places/trevi-fountain',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/turismoroma.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/turismoroma.png'
     },
     michelin: {
       title: 'Rome MICHELIN Restaurants - The MICHELIN Guide',
       url: 'https://guide.michelin.com/en/it/lazio/roma/restaurants',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/michelin.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/michelin.png'
     },
     kayak: {
       title: 'JFK to ROM, 1/1 \– 1/7',
       url: 'https://www.kayak.com/flights/JFK-ROM/2026-01-01/2026-01-07',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/kayak.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/kayak.png'
     },
     tripadvisor: {
       title: 'THE 15 BEST Things to Do in Rome (2025) - Must-See Attractions',
       url: 'https://www.tripadvisor.com/Attractions-g187791-Activities-Rome_Lazio.html',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/tripadvisor.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/tripadvisor.png'
     },
     booking: {
       title: 'The St. Regis Rome, Rome (updated prices 2025)',
       url: 'https://www.booking.com/hotel/it/stregisgrandroma.html',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/booking.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/booking.png'
     },
     outsideonline: {
       title: 'Inside the Mad, Mad World of TripAdvisor',
       url: 'https://www.outsideonline.com/adventure-travel/advice/inside-mad-mad-world-tripadvisor',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/outsideonline.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/outsideonline.png'
     },
     bbc: {
       title: 'Will we ever… understand why music makes us feel good?',
       url: 'https://www.bbc.com/future/article/20130418-why-does-music-make-us-feel-good',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/bbc.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/bbc.png'
     },
     nationalgeographic: {
       title: 'Carnivore’s Dilemma - National Geographic',
       url: 'https://www.nationalgeographic.com/foodfeatures/meat/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/nationalgeographic.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/nationalgeographic.png'
     },
     buzzfeed: {
       title: 'The Notorious MSG\'s Unlikely Formula For Success',
       url: 'https://www.buzzfeed.com/johnmahoney/the-notorious-msgs-unlikely-formula-for-success',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/buzzfeed.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/buzzfeed.png'
     },
     economist: {
       title: 'Death of the calorie',
       url: 'https://www.economist.com/1843/2019/02/28/death-of-the-calorie',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/economist.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/economist.png'
     },
     theverge: {
       title: 'The invisible seafaring industry that keeps the internet afloat',
       url: 'https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/theverge.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/theverge.png'
     },
     chicagomag: {
       title: 'A Knife Forged in Fire – Chicago Magazine',
       url: 'https://www.chicagomag.com/chicago-magazine/january-2024/a-knife-forged-in-fire/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/chicagomag.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/chicagomag.png'
     },
     noemamag: {
       title: 'The Secret, Magical Life Of Lithium - NOEMA',
       url: 'https://www.noemamag.com/the-secret-magical-life-of-lithium/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/noemamag.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/noemamag.png'
     },
     wired: {
       title: 'Scientists Have an Audacious Plan to Map the Ancient World Before It Disappears | WIRED',
       url: 'https://www.wired.com/story/scientists-have-an-audacious-plan-to-map-the-ancient-world-before-it-disappears/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/wired.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/wired.png'
     },
     technologyreview: {
       title: 'The decade-long quest to hack the body’s immune system with electricity | MIT Technology Review',
       url: 'https://www.technologyreview.com/2024/05/30/1092937/the-messy-quest-to-replace-drugs-with-electricity/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/technologyreview.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/technologyreview.png'
     },
     thewalrus: {
       title: 'The Benefits of Solitude | The Walrus',
       url: 'https://thewalrus.ca/the-benefits-of-solitude/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/thewalrus.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/thewalrus.png'
     },
     nytimes: {
       title: 'The Brilliant Inventor Who Made Two of History’s Biggest Mistakes - The New York Times',
       url: 'https://www.nytimes.com/2023/03/15/magazine/cfcs-inventor.html',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/nytimes.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/nytimes.png'
     },
     harpers: {
       title: 'In Search of Lost Time, by Tom Vanderbilt',
       url: 'https://harpers.org/archive/2023/04/the-science-of-the-perfect-second/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/harpers.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/harpers.png'
     },
     thenewyorker: {
       title: 'Crooks’ Mistaken Bet on Encrypted Phones | The New Yorker',
       url: 'https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/thenewyorker.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/thenewyorker.png'
     },
     theatlantic: {
       title: 'Wall Street’s Short Kings - The Atlantic',
       url: 'https://www.theatlantic.com/magazine/archive/2023/03/wall-street-muddy-waters-activist-short-sellers-tesla-gamestop/672774/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/theatlantic.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/theatlantic.png'
     },
     scientificamerican: {
       title: 'Synthetic Morphology Lets Scientists Create New Life-Forms | Scientific American',
       url: 'https://www.scientificamerican.com/article/synthetic-morphology-lets-scientists-create-new-life-forms/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/scientificamerican.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/scientificamerican.png'
     },
     theguardian: {
       title: '‘We are just getting started’: the plastic-eating bacteria that could change the world | Plastics | The Guardian',
       url: 'https://www.theguardian.com/environment/2023/sep/28/plastic-eating-bacteria-enzyme-recycling-waste',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/theguardian.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/theguardian.png'
     },
     aeon: {
       title: 'What was it like to grow up in the last Ice Age? | Aeon Essays',
       url: 'https://aeon.co/essays/what-was-it-like-to-grow-up-in-the-last-ice-age',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/aeon.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/aeon.png'
     },
     addapinch: {
       title: 'The Best Chocolate Cake Recipe {Ever} - Add a Pinch',
+      subtitle: 'Best Chocolate Cake Recipe: A one bowl chocolate cake recipe that is quick, easy, and delicious! Gluten-free, dairy-free, egg-free options!',
       url: 'https://addapinch.com/the-best-chocolate-cake-recipe-ever/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/addapinch.png'
+      image: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/addapinch2.png',
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/addapinch.png'
     },
     sallysbakingaddiction:  {
       title: 'Chocolate Layer Cake (Popular Recipe!) - Sally\'s Baking Addiction',
+      subtitle: 'This is my favorite homemade chocolate cake recipe. Top with creamy chocolate buttercream and chocolate chips for 3x the flavor!',
       url: 'https://sallysbakingaddiction.com/triple-chocolate-layer-cake/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/sallysbakingaddiction.png'
+      image: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/sallysbakingaddiction2.png',
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/sallysbakingaddiction.png'
     },
     allrecipes:  {
       title: 'One Bowl Chocolate Cake Recipe',
       url: 'https://www.allrecipes.com/recipe/17981/one-bowl-chocolate-cake-iii/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/allrecipes.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/allrecipes.png'
     },
     healthyrecipesblog:  {
       title: 'Homemade Chocolate Recipe - Healthy Recipes Blog',
       url: 'https://healthyrecipesblogs.com/homemade-chocolate/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/healthyrecipesblog.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/healthyrecipesblog.png'
     },
     joyfoodsunshine:  {
       title: 'The Best Chocolate Chip Cookie Recipe Ever - JoyFoodSunshine',
       url: 'https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/joyfoodsunshine.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/joyfoodsunshine.png'
     },
     loveandlemons:  {
       title: 'Best Homemade Brownies Recipe - Love and Lemons',
       url: 'https://www.loveandlemons.com/brownies-recipe/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/loveandlemons.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/loveandlemons.png'
     },
     recipetineats:  {
       title: 'Chocolate Mousse - RecipeTin Eats',
       url: 'https://www.recipetineats.com/chocolate-mousse/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/recipetineats.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/recipetineats.png'
     },
     parischezsharon:  {
       title: 'The Best Chocolate Soufflé Ever - Paris chez Sharon',
       url: 'https://parischezsharon.com/2022/10/the-best-chocolate-souffle-ever.html',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/parischezsharon.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/parischezsharon.png'
     },
     jamieoliver:  {
       title: 'Simple chocolate tart | Jamie Oliver chocolate recipes',
       url: 'https://www.jamieoliver.com/recipes/chocolate/simple-chocolate-tart/',
-      data: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/jamieoliver.png'
+      snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/jamieoliver.png'
     }
   }
 };
