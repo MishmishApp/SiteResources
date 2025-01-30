@@ -241,7 +241,9 @@ var resources = {
     },
     healthyrecipesblog:  {
       title: 'Homemade Chocolate Recipe - Healthy Recipes Blog',
+      subtitle: 'This ultra-rich and decadent homemade chocolate is made with cocoa powder, coconut oil, honey, and chopped nuts.',
       url: 'https://healthyrecipesblogs.com/homemade-chocolate/',
+      image: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/healthyrecipesblog2.png',
       snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/healthyrecipesblog.png'
     },
     joyfoodsunshine:  {
