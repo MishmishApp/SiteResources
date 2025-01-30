@@ -252,13 +252,17 @@ var resources = {
       snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/joyfoodsunshine.png'
     },
     loveandlemons:  {
-      title: 'Best Homemade Brownies Recipe - Love and Lemons',
+      title: 'Best Homemade Brownies - Love and Lemons',
+      subtitle: 'The best brownie recipe! Made with cocoa powder and chocolate chips, these homemade brownies are fudgy, gooey, super chocolaty, and easy to make!',
       url: 'https://www.loveandlemons.com/brownies-recipe/',
+      image: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/loveandlemons2.png',
       snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/loveandlemons.png'
     },
     recipetineats:  {
-      title: 'Chocolate Mousse - RecipeTin Eats',
+      title: 'Chocolate Mousse',
+      subtitle: 'Chocolate Mousse - the ultimate chocolate fix. It\'s rich yet light and fluffy, and you\'re just five ingredients away from these little pots of heaven!',
       url: 'https://www.recipetineats.com/chocolate-mousse/',
+      image: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/recipetineats2.png',
       snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/recipetineats.png'
     },
     parischezsharon:  {
@@ -268,7 +272,9 @@ var resources = {
     },
     jamieoliver:  {
       title: 'Simple chocolate tart | Jamie Oliver chocolate recipes',
+      subtitle: 'A beautiful chocolate dessert recipe that will wow your guest. This Jamie Oliver dessert recipe is great on its own, or served with sweet seasonal berries.',
       url: 'https://www.jamieoliver.com/recipes/chocolate/simple-chocolate-tart/',
+      image: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/jamieoliver.png',
       snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/jamieoliver.png'
     }
   }
