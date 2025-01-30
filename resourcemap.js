@@ -255,7 +255,7 @@ var resources = {
       title: 'Best Homemade Brownies - Love and Lemons',
       subtitle: 'The best brownie recipe! Made with cocoa powder and chocolate chips, these homemade brownies are fudgy, gooey, super chocolaty, and easy to make!',
       url: 'https://www.loveandlemons.com/brownies-recipe/',
-      image: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/loveandlemons2.png',
+      image: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/loveandlemons3.png',
       snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/loveandlemons.png'
     },
     recipetineats:  {
