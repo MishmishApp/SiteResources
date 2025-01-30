@@ -274,7 +274,7 @@ var resources = {
       title: 'Simple chocolate tart | Jamie Oliver chocolate recipes',
       subtitle: 'A beautiful chocolate dessert recipe that will wow your guest. This Jamie Oliver dessert recipe is great on its own, or served with sweet seasonal berries.',
       url: 'https://www.jamieoliver.com/recipes/chocolate/simple-chocolate-tart/',
-      image: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/jamieoliver.png',
+      image: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/jamieoliver2.png',
       snapshot: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/jamieoliver.png'
     }
   }
