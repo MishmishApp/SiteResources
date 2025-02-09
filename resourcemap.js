@@ -1,7 +1,16 @@
 var resources = {
   misc: {
     background: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/background.png',
-    products: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/products3.webp'
+    products: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/products3.webp',
+    product1: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product1.webp',
+    product2: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product2.webp',
+    product3: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product3.webp',
+    product4: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product4.webp',
+    product5: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product5.webp',
+    product6: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product6.webp',
+    product7: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product7.webp',
+    product8: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product8.webp',
+    product9: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product9.webp'
   },
   icons: {
     options: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,16A2,2 0 0,1 14,18A2,2 0 0,1 12,20A2,2 0 0,1 10,18A2,2 0 0,1 12,16M12,10A2,2 0 0,1 14,12A2,2 0 0,1 12,14A2,2 0 0,1 10,12A2,2 0 0,1 12,10M12,4A2,2 0 0,1 14,6A2,2 0 0,1 12,8A2,2 0 0,1 10,6A2,2 0 0,1 12,4Z" /></svg>',
