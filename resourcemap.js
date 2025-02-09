@@ -8,7 +8,7 @@ var resources = {
     product4: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product4.webp',
     product5: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product5.webp',
     product6: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product6.webp',
-    product7: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product7.webp',
+    product7: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product7_2.webp',
     product8: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product8.webp',
     product9: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product9.webp'
   },
