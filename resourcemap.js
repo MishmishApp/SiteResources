@@ -1,7 +1,6 @@
 var resources = {
   misc: {
     background: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/background.png',
-    products: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/products3.webp',
     product1: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product1.webp',
     product2: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product2.webp',
     product3: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product3.webp',
@@ -11,6 +10,9 @@ var resources = {
     product7: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product7_2.webp',
     product8: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product8.webp',
     product9: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/product9.webp',
+    hotel1: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/hotel1.webp',
+    hotel2: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/hotel2.webp',
+    hotel3: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/hotel3.webp',
     airlines: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/airlinessprite.webp'
   },
   icons: {
