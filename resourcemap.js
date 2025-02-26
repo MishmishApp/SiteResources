@@ -13,6 +13,9 @@ var resources = {
     hotel1: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/hotel1.webp',
     hotel2: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/hotel2.webp',
     hotel3: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/hotel3.webp',
+    hotel4: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/hotel4.webp',
+    hotel5: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/hotel5.webp',
+    hotel6: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/hotel6.webp',
     airlines: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/airlinessprite.webp'
   },
   icons: {
