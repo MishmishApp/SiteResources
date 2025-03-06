@@ -77,6 +77,10 @@ var resources = {
     windowclose: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.46,12L19,17.54V19H17.54L12,13.46L6.46,19H5V17.54L10.54,12L5,6.46V5H6.46L12,10.54L17.54,5H19V6.46L13.46,12Z" /></svg>',
     windowmax: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,4H20V20H4V4M6,8V18H18V8H6Z" /></svg>',
     windowmin: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,14H4V10H20" /></svg>',
+    skylogo: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#FF6600"><path d="M21 16v-2l-8-5V2.5a1.5 1.5 0 0 0-3 0V9l-8 5v2l8-2.5V18l-2 1.5V21l4-1 4 1v-1.5L13 18v-4.5L21 16z"/></svg>',
+    boomkinglogo: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#003580"><path d="M3 21v-2h18v2H3zm1-4V5a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12H4zm2-1h3v-3H6v3zm0-4h3V6H6v6zm5 4h3v-3h-3v3zm0-4h3V6h-3v6zm5 4h3v-3h-3v3zm0-4h3V6h-3v6z"/></svg>',
+    byteslogo: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#003580"><path d="M3 21v-2h18v2H3zm1-4V5a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12H4zm2-1h3v-3H6v3zm0-4h3V6H6v6zm5 4h3v-3h-3v3zm0-4h3V6h-3v6zm5 4h3v-3h-3v3zm0-4h3V6h-3v6z"/></svg>',
+    quiklogo: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#003580"><path d="M3 21v-2h18v2H3zm1-4V5a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12H4zm2-1h3v-3H6v3zm0-4h3V6H6v6zm5 4h3v-3h-3v3zm0-4h3V6h-3v6zm5 4h3v-3h-3v3zm0-4h3V6h-3v6z"/></svg>'
   },
   favicons: {
     google: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/favicons/google.png',
