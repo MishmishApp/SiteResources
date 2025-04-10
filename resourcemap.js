@@ -24,7 +24,7 @@ var resources = {
     firstparty: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/cookie1.png',
     secondparty: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/cookie2.png',
     thirdparty: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/cookie3.png',
-    shield: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/shield.png'
+    shield: 'https://cdn.jsdelivr.net/gh/MishmishApp/SiteResources/images/cookieshield.png'
   },
   icons: {
     options: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,16A2,2 0 0,1 14,18A2,2 0 0,1 12,20A2,2 0 0,1 10,18A2,2 0 0,1 12,16M12,10A2,2 0 0,1 14,12A2,2 0 0,1 12,14A2,2 0 0,1 10,12A2,2 0 0,1 12,10M12,4A2,2 0 0,1 14,6A2,2 0 0,1 12,8A2,2 0 0,1 10,6A2,2 0 0,1 12,4Z" /></svg>',
